@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/food-react-tailwind/static/css/main.5a17049a.css",
-    "main.js": "/food-react-tailwind/static/js/main.d8ec74c9.js",
+    "main.css": "/food-react-tailwind/static/css/main.420c36df.css",
+    "main.js": "/food-react-tailwind/static/js/main.eacbf2a6.js",
     "index.html": "/food-react-tailwind/index.html",
-    "main.5a17049a.css.map": "/food-react-tailwind/static/css/main.5a17049a.css.map",
-    "main.d8ec74c9.js.map": "/food-react-tailwind/static/js/main.d8ec74c9.js.map"
+    "main.420c36df.css.map": "/food-react-tailwind/static/css/main.420c36df.css.map",
+    "main.eacbf2a6.js.map": "/food-react-tailwind/static/js/main.eacbf2a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a17049a.css",
-    "static/js/main.d8ec74c9.js"
+    "static/css/main.420c36df.css",
+    "static/js/main.eacbf2a6.js"
   ]
 }
